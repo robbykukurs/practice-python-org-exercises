@@ -4,9 +4,7 @@
 #
 #
 #
-#
-#
-#
+#This is a simple radom password generator
 import random
 a = random.random()
 print(a)
